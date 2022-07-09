@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "vadimcn.vscode-lldb",
+    "mutantdino.resourcemonitor",
+    "matklad.rust-analyzer",
+    "tamasfe.even-better-toml",
+    "serayuzgur.crates"
+  ]
+}
