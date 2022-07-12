@@ -3,3 +3,8 @@ name = "devcontainer_rust"
 version = "0.1.0"
 authors = ["hi@felixsebastian.dev"]
 edition = "2021"
+
+[dependencies]
+cpu-time = "1.0.0"
+clearscreen = "1.0.10"
+fps_clock = "2.0.0"
